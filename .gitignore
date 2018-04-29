@@ -1,2 +1,4 @@
 BPVE/
 venv/
+migrations/
+db.sqlite3
