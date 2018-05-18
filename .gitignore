@@ -2,3 +2,6 @@ BPVE/
 venv/
 migrations/
 db.sqlite3
+secret_settings.py
+.DS_Store
+.vscode/

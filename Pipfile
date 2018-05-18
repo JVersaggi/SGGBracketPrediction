@@ -5,8 +5,12 @@ name = "pypi"
 
 [packages]
 django = "*"
+ujson = "*"
+requests = "*"
+pylint-django = "*"
 
 [dev-packages]
+pylint = "*"
 
 [requires]
 python_version = "3.6"
